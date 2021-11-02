@@ -3,8 +3,8 @@ A quick directory of all talk I've presented with materials and videos ready for
 
 ## Directory
 
-| Year Given | Talk Title                                        |   |   |   |
-|------------|---------------------------------------------------|---|---|---|
-| 2021       | [Conf42 - Build your next app with Web Components!](/2021 Conf42 - Build you next app with Web Components/) |   |   |   |
-| 2019       | [dotJs - Testing native js Web Components](/2019 dotjs - Testing Native Web Components) |   |   |   |
-| 2018       | [Meltwater - Web Components - A Primer](/2018 Meltwater - Web Components - A Primer) |   |   |   |
+| Year Given | Talk Title                                        |
+|------------|---------------------------------------------------|
+| 2021       | [Conf42 - Build your next app with Web Components!](/2018%20Meltwater%20-%20Web%20Components%20-%20A%20Primer) |
+| 2019       | [dotJs - Testing native js Web Components](/2019%20dotjs%20-%20Testing%20Native%20Web%20Components) |
+| 2018       | [Meltwater - Web Components - A Primer](/2018%20Meltwater%20-%20Web%20Components%20-%20A%20Primer) |
